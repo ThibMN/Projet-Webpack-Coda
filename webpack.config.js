@@ -43,7 +43,7 @@ module.exports = {
     open: true,
     hot: true,
     client: {
-      logging: 'none',
+      logging: 'info',
       overlay: true,
       progress: true,
       webSocketTransport: 'ws'
